@@ -20,6 +20,8 @@ Some deployment-related example text.
 
 ## How to Contribute
 
+Please fork repo and issue pull request for review.
+
 ## Copyright
 
 2019. Copyright notice.
