@@ -19,3 +19,7 @@ More example text.
 Some deployment-related example text.
 
 ## How to Contribute
+
+## Copyright
+
+2019. Copyright notice.
