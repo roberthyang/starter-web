@@ -28,4 +28,4 @@ Please fork repo and issue pull request for review.
 
 ## Copyright
 
-2019. Copyright notice.
+2019. Copyright notice.  All rights reserved.
