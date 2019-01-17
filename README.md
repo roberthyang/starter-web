@@ -6,6 +6,8 @@ This is a change made for purposes of diff demonstration.
 
 Adding a line for rebasing example.
 
+More changes from myfeature branch, too.
+
 ## Introduction
 
 Example text here.
